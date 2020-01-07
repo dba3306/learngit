@@ -4,4 +4,3 @@ add one line.
 add two line.
 Git tracks changes a file.
 Creating a new branch is quick and simple.
-haha
