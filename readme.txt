@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software.
+Git is a free software.
 add one line.
 add two line.
 Git tracks changes a file.
